@@ -8,6 +8,7 @@ var b  = "this is javascript"; //declaration and assignment
 console.log(b);
 c=100;
 console.log(c);
+
 function add(){
     var e = 20;
     var f = 30;
